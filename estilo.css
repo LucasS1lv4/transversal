@@ -49,8 +49,8 @@ body{
 }
 
 .imgbanner{
-    height: 500px;
-    width: 700px;
+    height: 400px;
+    width: 900px;
 }
 
 span {
@@ -108,7 +108,7 @@ background-color: red;
 }
 
 .lista-servicos {
-    width: 135px;
+    width: 335px;
     margin: 40px auto 40px;
 }
 
